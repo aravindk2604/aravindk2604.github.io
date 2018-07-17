@@ -43,12 +43,14 @@ twitter: mytwitter
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
+# gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 medium: medium
 # vimeo: myvimeo
+# lanyrd: mylanyrd
 email: myemail@gmail.com
 
 authors:
@@ -99,11 +101,12 @@ show-author: true
 # do you want some animations?
 animation: true
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
