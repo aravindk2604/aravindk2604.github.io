@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.ak }})
 
-<p align="justify">I'm an amateur photographer and I use Canon 550D. I like to click wildlife, natural landscapes and candid. I do enjoy birding and been learning about them for a while but at snail's pace. Check out the gallery below for a few pictures that I clicked. </p>
+<p align="justify">I'm an amateur photographer and I use Canon 550D. I click wildlife, natural landscapes and candid too. 
+I enjoy birding and been learning about them for a while but at snail's pace. Check out the gallery below for a 
+few favorites of mine. </p>
 
 
 <html>

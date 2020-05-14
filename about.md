@@ -4,12 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p align="justify">Hey there! Welcome to my personal website. My name is Aravind Krishnan and 
-I'm a recent graduate in Robotics Enginnering from Worcester Polytechnic Institute.
-This website will showcase my professional and personal projects and creative work that I undertake.</p>
+<p align="justify">Hey there! My name is Aravind Krishnan and I welcome you to my personal website.
+I'm a Robotics Engineer by profession and like to tinker with robots, autonomous cars and code them to glory.
+This website will be a showcase of my personal projects and creative work that I undertake.</p>
 
-<p align="justify">My journey from Bengaluru (India) to Rosenheim (Germany) and then to Worcester (USA)
-has been eventful and with a great deal of learning, literally! More about that on my Resume. I like to travel and explore the scenic places. I sketch, play guitar or read books when I find time and nothing else to do. </p>
+<p align="justify">My journey from Bengaluru (India) to Rosenheim (Germany), to Worcester, Concord and Torrance (USA) and back to 
+Munich (Germany) has been eventful and with a great deal of learning, literally! I like to travel, explore and photograph scenic places. As hobbies, I sketch, play the guitar and don the hat of a moody chef at times. </p>
 
-<p align="justify"> Please take time to have a look at my Projects, Blog and my Creative work. </p>
+<p align="justify"> Thanks for stopping by and reading a little about me. Please take a look at my Blogs and my Creative work too. </p>
 
