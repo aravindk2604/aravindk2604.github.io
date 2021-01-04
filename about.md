@@ -9,7 +9,7 @@ I'm a Robotics Engineer by profession and like to tinker with robots, autonomous
 This website intends to be a showcase of my personal projects and creative work that I undertake.</p>
 
 <p align="justify">My journey from Bengaluru (India) to Rosenheim (Germany), to Worcester, Concord and Torrance (USA) and back to 
-Munich (Germany) has been eventful and with a great deal of learning, literally! I like to travel, explore and photograph scenic places. As hobbies, I sketch, play the guitar and don the hat of a moody chef at times. </p>
+Munich and later Berlin(Germany) has been eventful and with a great deal of learning, literally! I like to travel, explore and photograph scenic places. As hobbies, I sketch, play the guitar and don the hat of a moody chef at times. </p>
 
 <p align="justify"> Thanks for stopping by and reading a little about me. </p>
 
